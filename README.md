@@ -9,7 +9,8 @@
 - 🧹 Data cleaning, transformation using **Power Query** and **DAX**
 - 📈 Visual storytelling with **data visualizations**
 - 🗃️ Analyzing business data using **SQL** and **Python (Pandas, NumPy)**
-- ☁️ Familiar with **Azure Data Factory**, **Excel**, and **ETL workflows**
+- ☁️ Familiar with **Excel**, and **ETL workflows**
+- - 🌱 I’m currently learning **Azure Data Factory**
 
 ---
 
