@@ -15,7 +15,7 @@
 ---
 
 📁 **Current Projects**  
-- 📊 [Sales Analytics Dashboard](#)  
+- 📊 [Sales Analytics Dashboard](https://github.com/qaskhk/Sales-Analysis-Dashboard-by-Excel)  
 - 📍 [Customer Segmentation in Power BI](#)  
 - 📈 [Python-based KPI Tracker](#)
 
