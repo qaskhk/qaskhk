@@ -5,7 +5,7 @@
 ---
 
 🔍 I specialize in:
-- 📊 Building dynamic dashboards in **Power BI** and **Tableau**
+- 📊 Building dynamic dashboards in **Excel**, **Power BI** and **Tableau**
 - 🧹 Data cleaning, transformation using **Power Query** and **DAX**
 - 📈 Visual storytelling with **data visualizations**
 - 🗃️ Analyzing business data using **SQL** and **Python (Pandas, NumPy)**
