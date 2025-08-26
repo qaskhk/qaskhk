@@ -17,7 +17,7 @@
 📁 **Current Projects**  
 - 📊 [Sales Analytics Dashboard](https://github.com/qaskhk/Sales-Analysis-Dashboard-by-Excel)  
 - 📊 [Customer Order Analysis in Power BI](https://github.com/qaskhk/Customer-order-dashboard-by-power-BI)  
-- 📈 [Python-based KPI and Dashboard](https://github.com/qaskhk/Customer-Order-Analysis-Report-Python)
+- 📈 [Python-based KPI and Visualization](https://github.com/qaskhk/Customer-Order-Analysis-Report-Python)
 
 ---
 
